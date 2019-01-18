@@ -23,6 +23,7 @@ $(document).ready(() => {
 		$("#musicart").show();
 		$("#itadakimasu").show();
 		$("#hangman").show();
+		$("#saldanas").show();
 	});
 
 	$("#html-btn").click(() => {
@@ -30,6 +31,7 @@ $(document).ready(() => {
 		$("#musicart").show();
 		$("#itadakimasu").show();
 		$("#hangman").show();
+		$("#saldanas").show();
 	});
 
 	$("#css-btn").click(() => {
@@ -37,6 +39,7 @@ $(document).ready(() => {
 		$("#musicart").show();
 		$("#itadakimasu").show();
 		$("#hangman").show();
+		$("#saldanas").show();
 	});
 
 	$("#bootstrap-btn").click(() => {
@@ -44,6 +47,7 @@ $(document).ready(() => {
 		$("#musicart").show();
 		$("#itadakimasu").show();
 		$("#hangman").show();
+		$("#saldanas").show();
 	});
 
 	$("#laravel-btn").click(() => {
@@ -51,6 +55,7 @@ $(document).ready(() => {
 		$("#musicart").hide();
 		$("#itadakimasu").hide();
 		$("#hangman").hide();
+		$("#saldanas").show();
 	});
 
 	$("#jquery-btn").click(() => {
@@ -58,6 +63,7 @@ $(document).ready(() => {
 		$("#musicart").show();
 		$("#itadakimasu").hide();
 		$("#hangman").show();
+		$("#saldanas").show();
 	});
 
 	$("#javascript-btn").click(() => {
@@ -65,6 +71,7 @@ $(document).ready(() => {
 		$("#musicart").show();
 		$("#itadakimasu").hide();
 		$("#hangman").show();
+		$("#saldanas").show();
 	});
 
 	$("#php-btn").click(() => {
@@ -72,6 +79,7 @@ $(document).ready(() => {
 		$("#musicart").show();
 		$("#itadakimasu").hide();
 		$("#hangman").hide();
+		$("#saldanas").show();
 	});
 
 	$("#mysql-btn").click(() => {
@@ -79,6 +87,7 @@ $(document).ready(() => {
 		$("#musicart").show();
 		$("#itadakimasu").hide();
 		$("#hangman").hide();
+		$("#saldanas").show();
 	});
 
 	$("#ajax-btn").click(() => {
@@ -86,6 +95,7 @@ $(document).ready(() => {
 		$("#musicart").show();
 		$("#itadakimasu").hide();
 		$("#hangman").hide();
+		$("#saldanas").show();
 	});
 
 	$("#backtotop").click(function(){
